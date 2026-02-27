@@ -30,6 +30,7 @@ class Solution:
         return (l, r)
 
 # ChatGPT is a hater below:
+# https://chatgpt.com/share/69a134c3-c50c-8008-b117-46fc840cfe72
 # 🔥 Actual Counterexample
 # height = [6, 0, 5]
 
